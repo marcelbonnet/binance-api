@@ -2,7 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/marcel-binance.svg)](https://badge.fury.io/rb/binance) 
 
-This is a fork from _gem binance_ . It is an unofficial Ruby wrapper for the Binance exchange REST and WebSocket APIs.
+This is a fork from _gem binance_ and based on [https://github.com/craysiii/binance/pull/37](Pull Request 37). It is an unofficial Ruby wrapper for the Binance exchange REST and WebSocket APIs.
 
 
 
