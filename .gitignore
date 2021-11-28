@@ -1,0 +1,11 @@
+# Gem builds
+pkg
+
+# Don't include your lock file
+Gemfile.lock
+
+# Don't include Rubymine config
+.idea
+
+refazer.sh
+*.gem
