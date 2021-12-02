@@ -184,6 +184,10 @@ module Binance
                 { name: :close_stream!, client: :verified,
                 action: :delete, endpoint: :user_data_stream },
 
+                # # margin type ISOLATED|CROSS
+                { name: :margin_type, client: :signed,
+                action: :post, endpoint: :margin_type },
+
                 # Withdraw API Endpoints
                 # # funding_rate
                 { name: :funding_rate, client: :signed,
